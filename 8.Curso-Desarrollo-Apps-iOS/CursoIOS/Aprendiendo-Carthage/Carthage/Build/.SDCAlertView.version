@@ -1,0 +1,19 @@
+{
+  "commitish" : "12.0.5",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "c4162ce8599c44bc0605b578289571d9537df1ea70015c5d576aa2814ca66cbb",
+      "name" : "SDCAlertView",
+      "container" : "SDCAlertView.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "fe1a19131278950282dc20fe8a70c18e0ee26fbd29d7098bd9b7bafdb1190e6d",
+      "name" : "SDCAlertView",
+      "container" : "SDCAlertView.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}

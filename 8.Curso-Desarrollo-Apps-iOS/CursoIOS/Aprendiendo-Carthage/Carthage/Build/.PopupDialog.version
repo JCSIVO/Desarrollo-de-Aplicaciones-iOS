@@ -1,0 +1,19 @@
+{
+  "commitish" : "1.1.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "1b2a45c8260df869c88860b7d793fb4fd345c0edb0692bfee23bdbaa20702de3",
+      "name" : "PopupDialog",
+      "container" : "PopupDialog.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "aa6d4f45e3ece8ab69362bce6633d9ab020077bd038fd86e94a62c1f6360084f",
+      "name" : "PopupDialog",
+      "container" : "PopupDialog.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}

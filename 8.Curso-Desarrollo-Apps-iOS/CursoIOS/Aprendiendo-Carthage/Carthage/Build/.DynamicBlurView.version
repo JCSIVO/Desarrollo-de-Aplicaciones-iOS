@@ -1,0 +1,19 @@
+{
+  "commitish" : "3.0.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "1eb082ab556336176e6504d90fe593ad153738dd73855dfef71ee0390ea0303c",
+      "name" : "DynamicBlurView",
+      "container" : "DynamicBlurView.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "e7ebcdb029b44b18d8ec2504631514b0c2faeeeb86ecfb3a4a6fbee5683c676c",
+      "name" : "DynamicBlurView",
+      "container" : "DynamicBlurView.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
